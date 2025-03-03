@@ -1,5 +1,4 @@
 # Spotify Playlist Creator
-<<<<<<< HEAD
 
 Este proyecto permite crear listas de reproducción en Spotify mediante un script de Python. El usuario puede ingresar una lista de canciones y artistas en el formato "artista - canción", y el script buscará esas canciones en Spotify, creará una lista de reproducción, y agregará las canciones encontradas.
 
